@@ -1,0 +1,41 @@
+{
+  "estadisticas": {
+    "total_registros": 10,
+    "promedio_edad": 34.1,
+    "promedio_salario": 62000.0
+  },
+  "filtro": {
+    "criterio": "Salario mayor a 62000.0",
+    "cantidad_encontrada": 4,
+    "registros": [
+      {
+        "ID": 3,
+        "Name": "Bob Johnson",
+        "Age": 45,
+        "Salary": 75000,
+        "Department": "Engineering"
+      },
+      {
+        "ID": 5,
+        "Name": "Tom Clark",
+        "Age": 37,
+        "Salary": 67000,
+        "Department": "Marketing"
+      },
+      {
+        "ID": 6,
+        "Name": "Mary Green",
+        "Age": 41,
+        "Salary": 73000,
+        "Department": "HR"
+      },
+      {
+        "ID": 8,
+        "Name": "Nancy Wilson",
+        "Age": 36,
+        "Salary": 80000,
+        "Department": "Marketing"
+      }
+    ]
+  }
+}

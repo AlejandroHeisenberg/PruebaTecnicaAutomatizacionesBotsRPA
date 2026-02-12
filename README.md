@@ -46,7 +46,7 @@ Es una aplicación de consola que valida textos. Lo hice dinámico, así que pue
 
 
 
-\## 🛠️ Notas importantes para la revisión
+\##  Notas importantes para la revisión
 
 \- \*\*Evidencias:\*\* Si no tienes alguna herramienta instalada (como UiPath), en cada carpeta dejé capturas de pantalla de la consola y de los archivos finales generados.
 

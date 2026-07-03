@@ -26,6 +26,7 @@ Este es un flujo en la nube para gestionar correos. Lo configuré para que guard
 
 
 
+
 \### 3. Procesamiento con Python
 
 Hice un script que lee datos de empleados (CSV) y saca estadísticas rápidas. 
